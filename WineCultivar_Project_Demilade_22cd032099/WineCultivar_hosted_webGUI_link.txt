@@ -3,4 +3,4 @@ Matric Number: 22cd032099
 Machine Learning Algorithm Used: Random Forest Classifier
 Model persistence method used: Joblib
 Live URL of the hosted application: https://wine-cultiva.onrender.com
-GitHub repository link: https://github.com/DMG-01/wine-cultiva
+GitHub repository link:https://github.com/abidemi-beep/WineCultivatar.git
